@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LoginAspNetBD")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cd94eeda5254d22f6a72d201a2bea0b81dbf8b57")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2f81e7e7edbb1e2d306fad0b8ab80e2e02f375f2")]
 [assembly: System.Reflection.AssemblyProductAttribute("LoginAspNetBD")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LoginAspNetBD")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
